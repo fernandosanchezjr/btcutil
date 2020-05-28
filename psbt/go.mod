@@ -1,9 +1,5 @@
 module github.com/fernandosanchezjr/btcutil/psbt
 
-go 1.13
+go 1.14
 
-require (
-	github.com/fernandosanchezjr/btcd v0.20.1-beta
-	github.com/fernandosanchezjr/btcutil v0.0.0-20190425235716-9e5f4b9a998d
-	github.com/davecgh/go-spew v1.1.1
-)
+require github.com/fernandosanchezjr/btcutil v1.0.3 // indirect
