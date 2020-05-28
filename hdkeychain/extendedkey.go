@@ -18,11 +18,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/base58"
 	"github.com/fernandosanchezjr/btcd/btcec"
 	"github.com/fernandosanchezjr/btcd/chaincfg"
 	"github.com/fernandosanchezjr/btcd/chaincfg/chainhash"
+	"github.com/fernandosanchezjr/btcutil"
+	"github.com/fernandosanchezjr/btcutil/base58"
 )
 
 const (
